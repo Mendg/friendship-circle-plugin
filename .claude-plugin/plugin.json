@@ -1,0 +1,18 @@
+{
+  "name": "friendship-circle",
+  "description": "Comprehensive toolkit for Friendship Circle International and Team Friendship - fundraising, communications, event design, and organizational leadership",
+  "version": "1.0.0",
+  "author": {
+    "name": "Mendel Groner",
+    "email": "mendel@friendshipcircle.org"
+  },
+  "homepage": "https://friendshipcircle.org",
+  "keywords": [
+    "nonprofit",
+    "fundraising",
+    "team-friendship",
+    "donor-communications",
+    "event-design",
+    "eos"
+  ]
+}
