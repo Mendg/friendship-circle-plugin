@@ -1,7 +1,7 @@
 ---
 name: recruitment
 description: Generates personalized recruitment outreach for Team Friendship events. Analyzes leads and creates custom messaging based on their background, interests, and connection to the mission. Use when you need to recruit participants for marathons, Kilimanjaro, bike rides, or other adventure fundraising events.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 # Recruitment Agent

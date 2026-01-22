@@ -1,7 +1,7 @@
 ---
 name: donor-pipeline
 description: Analyzes donor lists to qualify leads, prioritize outreach, and suggest personalized approaches. Run this agent when you have a list of donors or prospects and need to determine who to call first and what to say.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 # Donor Pipeline Agent

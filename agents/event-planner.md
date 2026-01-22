@@ -1,7 +1,7 @@
 ---
 name: event-planner
 description: Designs transformational Team Friendship events including logistics, Shabbos programming, beneficiary integration, and post-event stewardship. Use when planning marathons, mountain expeditions, bike rides, or any adventure fundraising event.
-model: claude-sonnet-4-20250514
+model: sonnet
 ---
 
 # Event Planner Agent
