@@ -1,0 +1,12 @@
+{
+  "name": "friendship-circle-marketplace",
+  "owner": {
+    "name": "Mendel Groner"
+  },
+  "plugins": [
+    {
+      "name": "friendship-circle",
+      "source": "."
+    }
+  ]
+}
