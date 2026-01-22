@@ -11,7 +11,7 @@
   "plugins": [
     {
       "name": "friendship-circle",
-      "source": ".",
+      "source": "./",
       "description": "Comprehensive toolkit for Friendship Circle International and Team Friendship - fundraising, communications, event design, and organizational leadership",
       "version": "1.0.0",
       "author": {
