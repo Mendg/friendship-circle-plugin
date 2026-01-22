@@ -1,12 +1,22 @@
 {
   "name": "friendship-circle-marketplace",
   "owner": {
-    "name": "Mendel Groner"
+    "name": "Mendel Groner",
+    "email": "mendel@friendshipcircle.org"
+  },
+  "metadata": {
+    "description": "Friendship Circle International plugin marketplace",
+    "version": "1.0.0"
   },
   "plugins": [
     {
       "name": "friendship-circle",
-      "source": "."
+      "source": ".",
+      "description": "Comprehensive toolkit for Friendship Circle International and Team Friendship - fundraising, communications, event design, and organizational leadership",
+      "version": "1.0.0",
+      "author": {
+        "name": "Mendel Groner"
+      }
     }
   ]
 }
